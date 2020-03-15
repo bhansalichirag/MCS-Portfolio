@@ -1,1 +1,1 @@
-MCS - Portfolio for MCS (Masters) at ASU
+MCS - Portfolio for Masters at ASU
